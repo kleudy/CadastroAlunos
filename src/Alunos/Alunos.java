@@ -1237,7 +1237,7 @@ bg.add(rdIdEditar);
 
         jLabel27.setText("Graduado em Sistemas de Informação");
 
-        jLabel30.setText("jLabel30");
+        jLabel30.setText("Sistema de Informação");
 
         javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
         jPanel12.setLayout(jPanel12Layout);
