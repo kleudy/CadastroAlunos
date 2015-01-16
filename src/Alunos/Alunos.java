@@ -181,6 +181,7 @@ bg.add(rdIdEditar);
         jPanel12 = new javax.swing.JPanel();
         jLabel25 = new javax.swing.JLabel();
         jLabel27 = new javax.swing.JLabel();
+        jLabel30 = new javax.swing.JLabel();
         jPanel17 = new javax.swing.JPanel();
         jLabel28 = new javax.swing.JLabel();
         jLabel29 = new javax.swing.JLabel();
@@ -1236,6 +1237,8 @@ bg.add(rdIdEditar);
 
         jLabel27.setText("Graduado em Sistemas de Informação");
 
+        jLabel30.setText("jLabel30");
+
         javax.swing.GroupLayout jPanel12Layout = new javax.swing.GroupLayout(jPanel12);
         jPanel12.setLayout(jPanel12Layout);
         jPanel12Layout.setHorizontalGroup(
@@ -1244,7 +1247,8 @@ bg.add(rdIdEditar);
                 .addContainerGap()
                 .addGroup(jPanel12Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                     .addComponent(jLabel25)
-                    .addComponent(jLabel27))
+                    .addComponent(jLabel27)
+                    .addComponent(jLabel30))
                 .addGap(0, 0, Short.MAX_VALUE))
         );
         jPanel12Layout.setVerticalGroup(
@@ -1254,7 +1258,9 @@ bg.add(rdIdEditar);
                 .addComponent(jLabel25)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jLabel27)
-                .addContainerGap(426, Short.MAX_VALUE))
+                .addGap(18, 18, 18)
+                .addComponent(jLabel30)
+                .addContainerGap(394, Short.MAX_VALUE))
         );
 
         jLabel29.setIcon(new javax.swing.ImageIcon(getClass().getResource("/img/1536558_880989708579033_7593529292838740735_n.jpg"))); // NOI18N
@@ -2258,6 +2264,7 @@ public boolean verificaSeAlunoCadastrado(String campo){
     private javax.swing.JLabel jLabel28;
     private javax.swing.JLabel jLabel29;
     private javax.swing.JLabel jLabel3;
+    private javax.swing.JLabel jLabel30;
     private javax.swing.JLabel jLabel4;
     private javax.swing.JLabel jLabel5;
     private javax.swing.JLabel jLabel6;
