@@ -1236,7 +1236,7 @@ bg.add(rdIdEditar);
 
         jLabel25.setText("Kleudy Silva");
 
-        jLabel27.setText("Graduado em Sistemas de Informação");
+        jLabel27.setText("Graduado");
 
         jLabel30.setText("Sistema de Informação");
 
@@ -1296,7 +1296,7 @@ bg.add(rdIdEditar);
                 .addComponent(jPanel12, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.UNRELATED)
                 .addComponent(jPanel17, javax.swing.GroupLayout.PREFERRED_SIZE, 597, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
+                .addContainerGap(82, Short.MAX_VALUE))
         );
         jPanel9Layout.setVerticalGroup(
             jPanel9Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
